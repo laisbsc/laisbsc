@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 #### Thing's I've done
 ##### Stats
 [![Lais' github stats](https://github-readme-stats.vercel.app/api?username=laisbsc)](https://github.com/laisbsc/github-readme-stats)
+ 
+
 
 ##### Talks
 * [Open Source Directions podcast (epi 49) - Kedro](https://www.youtube.com/watch?v=USiedaclFzk&ab_channel=OpenTeams) 
@@ -48,7 +50,13 @@ Here are some ideas to get you started:
 ##### Articles
 * [Beyond the Notebook and into the Data Science Framework Revolution](https://medium.com/quantumblack/beyond-the-notebook-and-into-the-data-science-framework-revolution-a7fd364ab9c4)
 * [Jungle Scout case study: Kedro, Airflow, and MLFlow use on production code](https://junglescouteng.medium.com/jungle-scout-case-study-kedro-airflow-and-mlflow-use-on-production-code-150d7231d42e)
+* [Element AI uses Kedro to apply research and develop enterprise AI models](https://medium.com/quantumblack/element-ai-uses-kedro-to-apply-research-and-develop-enterprise-ai-models-bbbf2e3ff722)
 
 
 ## Get in touch :coffee:
 * Twitter: [@lais_bsc](twitter.com/lais_bsc)
+
+<p align="center"> 
+Bye, hooman! 👋🏽 <br>
+  <img src="https://profile-counter.glitch.me/laisbsc/count.svg"/>
+</p>
