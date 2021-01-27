@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 * [Open Source Directions podcast (epi 49) - Kedro](https://www.youtube.com/watch?v=USiedaclFzk&ab_channel=OpenTeams) 
 * [PyData Hamburg](https://youtu.be/FY9aqax1wNs?t=3149) talk on Intro to Kedro (Sept, 20)
 * [PyData Cambridge](https://youtu.be/0xD9cTd_xO4?t=2693) (23rd edition) - Another Kedro talk (Sept, 20)
-* [MoinWorld](https://www.linkedin.com/feed/update/urn:li:activity:6716701390179188736/) - My Path to Tech (Sept, 20)
+* [MoinWorld](https://www.linkedin.com/feed/update/urn:li:activity:6716701390179188736/) - My Path to Tech (Sept, 20) [slides](https://drive.google.com/file/d/1jFTaFl6itoNrhecKH6IyOXJG2-r9vGYy/view?usp=sharing)
+* [TechNottingham](https://www.technottingham.com/events/wit-november-2020) - Developer Advocate throughout pandemic days (Nov, 20) [slides](https://drive.google.com/file/d/1MN6aJ_1m8q6K5mVrZkiddkyPLsDA0Jyc/view)
 * [PyLadies Dublin](https://youtu.be/-TtzMLM9dT8?t=2461) - From Jupyter Notebook to Kedro (lightning talk) (Dec, 20)
 * [Python Pizza Hamburg](https://twitter.com/pythonpizzaconf/status/1344745723074588674) New Year's edition - Markov Chain Fake News Generator (Dec, 20)
 
