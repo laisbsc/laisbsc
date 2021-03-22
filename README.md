@@ -1,6 +1,9 @@
 ### Hi there, hooman! :robot:
 
-My name is Lais and I am a Developer Advocate, DevRel for the intimates :avocado: My background is in Civil and Env. Eng. and I love Python and data visualisations. :smile:
+My name is Lais and I am a Developer Advocate, DevRel for the intimates or simply a Developer avocado :avocado:.
+
+My background is in Civil and Env. Eng. and I love Python and data visualisations. :smile:
+
 > NOTE: Curious about the avocado joke? Check out the explanation by [Mary Thengvall](https://www.marythengvall.com/blog/2018/1/31/developer-avocados-the-good-kind-of-fat).
 
 #### What I do 📫
