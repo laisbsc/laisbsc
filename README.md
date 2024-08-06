@@ -1,22 +1,18 @@
-### Hi there, hooman! :robot:
+### Hi there, hooman! 👋🏽
 
-My name is Lais and I am a Developer Advocate, DevRel for the intimates or simply a Developer avocado :avocado:.
-
-My background is in Civil and Env. Eng. and I love Python and data visualisations. :smile:
-
-> NOTE: Curious about the avocado joke? Check out the explanation by [Mary Thengvall](https://www.marythengvall.com/blog/2018/1/31/developer-avocados-the-good-kind-of-fat).
+My name is Laís and I am a seasoned Developer Advocate who now works as a Software Developer. My background is in Civil and Env. Eng. and I love Python and data visualisations. 📊
 
 #### What I do 📫
 
-- 🔭 I’m currently working on [QHub](https://github.com/Quansight/qhub/) an open source library that helps data scientists deploy their projects to the Cloud straight from JupyterHub with a GitOps approach. In summary, a *DevOps-for-Notebooks* tool. For more details, check out the release at [JupyterCon](https://www.quansight.com/post/announcing-qhub).
+- 🔭 In a nutshell, I create and maintain Grafana and Prometheus dashboards. 📈
 
 #### Community 🧜‍
-- :shamrock: I am a board member of [Python Ireland](https://python.ie/) since Oct/19, where I hosted [a few meetups](https://www.youtube.com/playlist?list=PLNeBS51Q0m98sqBDz8_HyAFqp8YW78-g8) and helped with PyCon.
+- 🐍 I am a board member of [EuroPython Society](https://europython-society.org/about/), where I volunteer as an organiser since Feb/2020. I currenlty lead the Comms & Design team.
+- ☘️I was the first Black woman to be part of the board of [Python Ireland](https://python.ie/), where I hosted [a few meetups](https://www.youtube.com/playlist?list=PLNeBS51Q0m98sqBDz8_HyAFqp8YW78-g8) and helped organising a conference.
 - 🧶 Co-organiser of [Pyjamas Conference](twitter.com/pyjamasconf), a 24 hours world-wide Python conference where everyone is invited to wear pajamas.
-- 📚 Volunteer for [EuroPython](https://twitter.com/europythons) since Feb/20.
-
-#### Fun facts ⚡
-- 👾 I used to work (and have a serious crush) on [Kedro](https://github.com/quantumblacklabs/kedro/), a DS/ML Python framework that uses software engineering best pratcies to help teams work more efficiently, the Django of ML/DS projects. More info? Check out *[What is Kedro?](https://dev.to/waylonwalker/what-is-kedro-lob)*.
+- 📚 Organiser of Humble Data Workshops since 2022.
+- 🎙️ Co-organiser of [MidMeetPy](https://dev.to/midmeetpy), a python podcast series with [Cheuk Ting Ho](https://cheuk.dev/).
+- 📔 Volunteer and ally for PyLadies Dublin everytime an opportunity arises.
 
 <!--
 **laisbsc/laisbsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,19 +32,22 @@ Here are some ideas to get you started:
 -->
 
 #### Thing's I've done
-##### Stats
-[![Lais' github stats](https://github-readme-stats.vercel.app/api?username=laisbsc)](https://github.com/laisbsc/github-readme-stats)
- 
-
 
 ##### Talks
+* PyCon Italia 2024 [Python and Freedom and Bias](https://www.youtube.com/watch?v=RiqWAyE1McM)
+* Panel Discussion at PyCon DE 2024 (Berlin)
+* Panel Discussion with Woman in DevOps 2023 (Dublin)
+* Panel Discussion Microaggressions on Black Hair at Workday Inc 2024
+* Python Bytes Podcast - [Episode 263: It's time to stop using Python 3.6](https://pythonbytes.fm/episodes/show/263/it-s-time-to-stop-using-python-3.6)
+* Developer Advocate Stories with [Laís Carvalho, Open Teams](https://www.youtube.com/watch?v=WuSLMHud9k8&pp=ygUNbGFpcyBjYXJ2YWxobw%3D%3D)
+* Interview for Mouse vs. Python - [PyDev of the Week: Laís Carvalho](https://www.blog.pythonlibrary.org/2022/01/10/pydev-of-the-week-lais-carvalho/)
 * [Open Source Directions podcast (epi 49) - Kedro](https://www.youtube.com/watch?v=USiedaclFzk&ab_channel=OpenTeams) 
-* [PyData Hamburg](https://youtu.be/FY9aqax1wNs?t=3149) talk on Intro to Kedro (Sept, 20)
-* [PyData Cambridge](https://youtu.be/0xD9cTd_xO4?t=2693) (23rd edition) - Another Kedro talk (Sept, 20)
-* [MoinWorld](https://www.linkedin.com/feed/update/urn:li:activity:6716701390179188736/) - My Path to Tech (Sept, 20) [slides](https://drive.google.com/file/d/1jFTaFl6itoNrhecKH6IyOXJG2-r9vGYy/view?usp=sharing)
-* [TechNottingham](https://www.technottingham.com/events/wit-november-2020) - Developer Advocate throughout pandemic days (Nov, 20) [slides](https://drive.google.com/file/d/1MN6aJ_1m8q6K5mVrZkiddkyPLsDA0Jyc/view)
-* [PyLadies Dublin](https://youtu.be/-TtzMLM9dT8?t=2461) - From Jupyter Notebook to Kedro (lightning talk) (Dec, 20)
-* [Python Pizza Hamburg](https://twitter.com/pythonpizzaconf/status/1344745723074588674) New Year's edition - Markov Chain Fake News Generator (Dec, 20)
+* [PyData Hamburg](https://youtu.be/FY9aqax1wNs?t=3149) talk on Intro to Kedro
+* [PyData Cambridge](https://youtu.be/0xD9cTd_xO4?t=2693) (23rd edition) - Another Kedro talk
+* [MoinWorld](https://www.linkedin.com/feed/update/urn:li:activity:6716701390179188736/) - My Path to Tech [slides](https://drive.google.com/file/d/1jFTaFl6itoNrhecKH6IyOXJG2-r9vGYy/view?usp=sharing)
+* [TechNottingham](https://www.technottingham.com/events/wit-november-2020) - Developer Advocate throughout pandemic days [slides](https://drive.google.com/file/d/1MN6aJ_1m8q6K5mVrZkiddkyPLsDA0Jyc/view)
+* [PyLadies Dublin video](https://youtu.be/-TtzMLM9dT8?t=2461) - From Jupyter Notebook to Kedro (lightning talk)
+* [Python Pizza Hamburg](https://twitter.com/pythonpizzaconf/status/1344745723074588674) New Year's edition - Markov Chain Fake News Generator
 
 
 ##### Articles
