@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 #### Thing's I've done
 
 ##### Talks
+* Workday & Amazon at Black Histopry Month 2024 [Bias in AI](https://ti.to/tech-talks/black-history-month)
 * PyCon Italia 2024 [Python and Freedom and Bias](https://www.youtube.com/watch?v=RiqWAyE1McM)
-* Panel Discussion at PyCon DE 2024 (Berlin)
+* Panel Discussion at [PyCon DE 2024 (Berlin)](https://www.youtube.com/watch?v=WRhAUBwWEgU)
 * Panel Discussion with [Woman in DevOps 2023 (Dublin)](https://www.meetup.com/women-in-devops/events/293293768/?eventOrigin=group_events_list)
 * Panel Discussion Microaggressions on Black Hair at Workday Inc. 2024
 * Python Bytes Podcast - [Episode 263: It's time to stop using Python 3.6](https://pythonbytes.fm/episodes/show/263/it-s-time-to-stop-using-python-3.6)
