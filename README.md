@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 ##### Talks
 * PyCon Italia 2024 [Python and Freedom and Bias](https://www.youtube.com/watch?v=RiqWAyE1McM)
 * Panel Discussion at PyCon DE 2024 (Berlin)
-* Panel Discussion with Woman in DevOps 2023 (Dublin)
-* Panel Discussion Microaggressions on Black Hair at Workday Inc 2024
+* Panel Discussion with [Woman in DevOps 2023 (Dublin)](https://www.meetup.com/women-in-devops/events/293293768/?eventOrigin=group_events_list)
+* Panel Discussion Microaggressions on Black Hair at Workday Inc. 2024
 * Python Bytes Podcast - [Episode 263: It's time to stop using Python 3.6](https://pythonbytes.fm/episodes/show/263/it-s-time-to-stop-using-python-3.6)
 * Developer Advocate Stories with [Laís Carvalho, Open Teams](https://www.youtube.com/watch?v=WuSLMHud9k8&pp=ygUNbGFpcyBjYXJ2YWxobw%3D%3D)
 * Interview for Mouse vs. Python - [PyDev of the Week: Laís Carvalho](https://www.blog.pythonlibrary.org/2022/01/10/pydev-of-the-week-lais-carvalho/)
