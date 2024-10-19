@@ -1,6 +1,6 @@
 ### Hi there, hooman! 👋🏽
 
-My name is Laís and I am a seasoned Developer Advocate who now works as a Software Developer. My background is in Civil and Env. Eng. and I love Python and data visualisations. 📊
+My name is Laís and I am a Developer Advocate who now works as a Software Developer. My background is in Engineering and I love Python and data visualisations. 📊
 
 #### What I do 📫
 
