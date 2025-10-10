@@ -4,7 +4,7 @@ My name is Laís and I am a Developer Advocate who now works with Growth marketi
 
 #### What I do 📫
 
-- 🔭 I'm a DevRel for @Pydantic, where I build content about our observability tool [Pydantic Logfire](https://logfire.pydantic.dev/docs/)📈
+- 🔭 I'm a DevRel for [Pydantic](https://pydantic.dev/), where I build content about our observability tool [Pydantic Logfire](https://logfire.pydantic.dev/docs/). 📈
 
 #### Community 🧜‍
 - 📚 Organiser of [Humble Data Workshops](https://github.com/HumbleData) since 2022.
