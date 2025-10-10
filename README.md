@@ -1,18 +1,18 @@
 ### Hi there, hooman! 👋🏽
 
-My name is Laís and I am a Developer Advocate who now works as a Software Developer. My background is in Engineering and I love Python and data visualisations. 📊
+My name is Laís and I am a Developer Advocate who now works with Growth marketing. My background is in Engineering, I used to built monitoring dashboards in Grafana and I love Python and data visualisations. 📊
 
 #### What I do 📫
 
-- 🔭 In a nutshell, I create and maintain Grafana and Prometheus dashboards. 📈
+- 🔭 I'm a DevRel for @Pydantic, where I build content about our observability tool [Pydantic Logfire](https://logfire.pydantic.dev/docs/)📈
 
 #### Community 🧜‍
-- 🐍 I am a board member of [EuroPython Society](https://europython-society.org/about/), where I volunteer as an organiser since Feb/2020. I currenlty lead the Comms & Design team.
+- 📚 Organiser of [Humble Data Workshops](https://github.com/HumbleData) since 2022.
+- 🐍 I am a former board member of [EuroPython Society](https://europython-society.org/about/), where I used to volunteer as an organiser from Feb/2020 until 2023. I used to lead the Comms & Design team.
 - ☘️I was the first Black woman to be part of the board of [Python Ireland](https://python.ie/), where I hosted [a few meetups](https://www.youtube.com/playlist?list=PLNeBS51Q0m98sqBDz8_HyAFqp8YW78-g8) and helped organising a conference.
-- 🧶 Co-organiser of [Pyjamas Conference](twitter.com/pyjamasconf), a 24 hours world-wide Python conference where everyone is invited to wear pajamas.
-- 📚 Organiser of Humble Data Workshops since 2022.
-- 🎙️ Co-organiser of [MidMeetPy](https://dev.to/midmeetpy), a python podcast series with [Cheuk Ting Ho](https://cheuk.dev/).
-- 📔 Volunteer and ally for PyLadies Dublin everytime an opportunity arises.
+- 🧶 I also used to co-organiser the [Pyjamas Conference](twitter.com/pyjamasconf), a 24 hours world-wide Python conference where everyone is invited to wear pajamas.
+- 🎙️ Former co-organiser of [MidMeetPy](https://dev.to/midmeetpy), a python podcast series with [Cheuk Ting Ho](https://cheuk.dev/).
+- 📔 Volunteer and ally for PyLadies Dublin (and PyLadies Con) whenever I get a call.
 
 <!--
 **laisbsc/laisbsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 #### Thing's I've done
 
 ##### Talks
+* PyCon Greece 2025 - Opening Keynote [The Open Source of Self](https://youtu.be/inXTj2hmkvc?t=5776)
 * Workday & Amazon at Black History Month 2024 [Bias in AI](https://ti.to/tech-talks/black-history-month)
 * PyCon Italia 2024 [Python and Freedom and Bias](https://www.youtube.com/watch?v=RiqWAyE1McM)
 * Panel Discussion at [PyCon DE 2024 (Berlin)](https://www.youtube.com/watch?v=WRhAUBwWEgU)
