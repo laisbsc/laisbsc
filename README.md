@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 
 ## Get in touch :coffee:
-* Twitter: [@lais_bsc](x.com/lais_bsc)
+* Twitter: [@lais_bsc](https://x.com/lais_bsc)
 
 <p align="center"> 
 Bye, hooman! 👋🏽 <br>
